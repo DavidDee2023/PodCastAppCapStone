@@ -3,7 +3,7 @@
 ## Build a podcast application
 
 ## About
-Build a podcast app allowing users to browse various podcast shows, play episodes, and track their favorite episodes.
+A podcast app allowing users to browse various podcast shows, play episodes, and track their favorite episodes.
 
 # Requirements
 ✔️ JavaScript or,
